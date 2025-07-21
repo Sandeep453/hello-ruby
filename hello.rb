@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, Docker Sinatra!"
+  "Hello, Docker running with ruby!"
 end
