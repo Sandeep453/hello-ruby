@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, Docker running with ruby!"
+  "Hello, Ruby app running on docker by using jenkins and git as CI CD!"
 end
